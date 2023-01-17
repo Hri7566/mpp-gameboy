@@ -1,0 +1,14 @@
+{
+  "name": "mppclone-client",
+  "version": "1.0.0",
+  "description": "MPPClone client",
+  "main": "Client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hri7566 <hri7566@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.5.0"
+  }
+}
